@@ -27,12 +27,13 @@
 <h2 align="center">I'm a South Florida based software engineer coding full-stack Javascript applications.</h3>
 
 
-<!-- ### :man_technologist: About Me :
+### :man_technologist: About Me :
 
-My name is Nicolas Peralta and I'm your next software engineer. Whether that is helping you cement your online presence and establishing your brand or joining your team and creating great things together while continuously learning and growing as an engineer, I am excited about what we can do together.
 
-When i'm not working, you can catch me playing video games, going to the gym or traveling. It's about enjoying the little things, right?
- -->
+ As a manager and an HR Coordinator at Enterprise Holdings, I have learned and excelled in a fast-paced environment. I have thrived in a collaborative workplace and have experience working in high-intensity workflows. My experiences have allowed me to secure complete satisfaction in our customers and helping my colleagues succeed in helping train and develop them. As a software engineer at 100Devs, I have worked on different full-stack applications, from design, coding, and testing to documentation and implementation. 
+<!--  
+	My enthusiasm, passion for learning, and perseverance is some of what drives me to success. When I'm not working, you can catch me playing video games, going to the gym, or tinkering with my computer. It's about enjoying the little things, right? -->
+
 
 <div align="center">
  ---
