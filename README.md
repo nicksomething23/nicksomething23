@@ -10,7 +10,7 @@
   <a href="https://twitter.com/nicksomething23">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="nicolasperalta27@icloud.com">
+  <a href="mailto:nicolasperalta27@icloud.com">
     <img src="https://img.shields.io/badge/iCloud-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white" alt="icloud Badge"/>
   </a>
   <a href="https://nicolasperalta.netlify.app/">
