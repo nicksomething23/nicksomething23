@@ -16,9 +16,9 @@
   <a href="https://nicolasperalta.netlify.app/">
    <img src="https://img.shields.io/badge/portfolio-430098.svg?style=for-the-badge&&logoColor=white" alt="portfolio site"/>
   </a>
-  <a href="https://docs.google.com/document/d/1QWuZfbzWBK6ZxBcE2LLw0HuVPFsQo2eD/edit?usp=sharing&ouid=117131303217651464947&rtpof=true&sd=true">
+<!--   <a href="https://docs.google.com/document/d/1QWuZfbzWBK6ZxBcE2LLw0HuVPFsQo2eD/edit?usp=sharing&ouid=117131303217651464947&rtpof=true&sd=true">
    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&&logoColor=white" alt="resume"/>
-  </a>
+  </a> -->
     
 </div>
 </div>
